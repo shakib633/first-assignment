@@ -96,7 +96,7 @@ img{
     height: 5%;
 }
 .shape3{
-    background-image: linear-gradient(RED,purple);
+    background-image: linear-gradient(rgb(241, 119, 119),rgb(194, 138, 194));
     border: 2%;
     margin: 2%;
     padding: 2%;
